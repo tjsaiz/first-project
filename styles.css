@@ -1,0 +1,31 @@
+body {
+    background: darkgoldenrod;
+}
+
+h1 {
+    text-align: center;
+    padding: 10px;
+    }
+
+#benefits {
+    background: lightgray;
+    width: 200px;
+    overflow: auto;
+    }
+
+#benefits li {
+    padding: 10px;
+}
+
+#benefits li:hover {
+    background:gray;
+}
+
+tr, td, table {
+    border: 2px solid black;
+    padding:10px;
+}
+
+td:hover {
+    background: darkslategray;
+}
